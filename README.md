@@ -99,8 +99,8 @@ Publish the website in the given URL.
 ```
 ## OUTPUT:
 ### serveroutput
-![](./ex8.png)
+![ex8](https://github.com/rathishc12/standard-calculator/assets/120539398/33ee5291-23ff-48ea-94a8-7e55550f9838)
 ### clientoutput
-![](./cal.png)
+![cal](https://github.com/rathishc12/standard-calculator/assets/120539398/b919a75c-6b0f-405d-a1d7-1f623af6ea02)
 ## Result:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
